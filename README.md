@@ -21,7 +21,7 @@ The program can be used from the terminal. Here is a simple example of how to en
 <samp>$ python sayitwithDNA.py --mode decode --algorithm GoldmanCode --input_path /Users/name/file.dna --output_path /Users/name/file.gif
 
 
-See "Command Line Arguments.pdf" for a detailed listing of all possible command line arguments and options.
+See "[Command Line Arguments.pdf](https://github.com/DNA-project/say-it-with-DNA/blob/master/Command%20Line%20Arguments.pdf)" for a detailed listing of all possible command line arguments and options.
 
 
 
