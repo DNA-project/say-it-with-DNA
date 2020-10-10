@@ -1,5 +1,5 @@
 # say-it-with-DNA
-This Command-line Python 3 application eases the access to use one of the most exciting data storage technologies of our time by providing rapid-prototyping-enabling access to established en- and decoding algorithms based on the library [Chamaeleo](https://github.com/ntpz870817/Chamaeleo). This contributes to further understanding of the algorithms’ strengths and weaknesses, and allows using various parameters.
+This command-line Python 3 application eases the access to use one of the most exciting data storage technologies of our time by providing rapid-prototyping-enabling access to established en- and decoding algorithms based on the library [Chamaeleo](https://github.com/ntpz870817/Chamaeleo). This contributes to further understanding of the algorithms’ strengths and weaknesses, and allows using various parameters.
 
 ### How to
 #### Requirements: 
